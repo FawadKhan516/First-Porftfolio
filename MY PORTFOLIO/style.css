@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+.carousel-item img{
+    width: 100%;
+    height: 80vh;
+}
+
+.content{
+    font-family: "Great Vibes", cursive;
+}
+
+/* .pic{
+    height: 30vh;
+} */
+
+/* .card :hover{
+    background-color: rgb(112, 96, 255);
+    color: rgb(252, 252, 252);
+    transform: translateY(-9px);
+    box-shadow: 0 12px 16px rgba(5, 5, 5, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+} */
+ 
+html {
+    scroll-behavior: smooth;
+  }
+  
+
+.card-body img{
+    min-width: 50%;
+    max-height: 200px;
+}
+
+.card-body h5{
+    margin-top: 20px;
+}
+/* .card, .btn :hover{
+    background-color: white;
+    color: black;
+} */
